@@ -1,0 +1,30 @@
+p {
+    text-align: justify;
+}
+
+
+/* Centrer un élément (une image) */
+.center {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Ajouter un box-shadow à un élément */ 
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.admonition.ia-0 {
+    border-left-color: #607d8b;
+}
+
+.admonition.ia-0 > .admonition-title {
+    background-color: rgba(96, 125, 139, 0.1);
+}
+
+.ia-0-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
