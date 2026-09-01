@@ -20,19 +20,17 @@ votre document doit aussi comporter une [matrice d'Eisenhower](../notes/matrice_
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-!!! note ""
-
-    <div style="display:flex;align-items:center;gap:1rem;">
-        <a href="" target="_blank" style="display:flex;align-items:center;">
-            <img src="../images/niveau_ia/niveau_2_xsmall.png">
-        </a>
+<div class="niveau_ia">
+    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank"">
+    <img src="../images/niveau_ia/IA_2.svg">
         <span>Assistant à l'organisation ou à la révision d'une production</span>
-    </div>
+    </a>
+</div>
 
 ## Modalités d'évaluation et de remise
 
 **Pondération** : Formatif
 
-- Le travail doit être en format Word et intitulé NomPrenom_approbation.docx
+- Le travail doit être en format Word et intitulé **NomPrenom_approbation.docx**
 - La remise se fera via un devoir dans l'équipe Teams du cours.
 - [Grille d'évaluation](../fichiers/grille_approbation_projet.pdf){target=_blank}

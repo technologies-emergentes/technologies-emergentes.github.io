@@ -26,19 +26,18 @@ Ensuite dans un document Word:
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-!!! note ""
 
-    <div style="display:flex;align-items:center;gap:1rem;">
-        <a href="" target="_blank" style="display:flex;align-items:center;">
-            <img src="../images/niveau_ia/niveau_1_xsmall.png">
-        </a>
+<div class="niveau_ia">
+    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank">
+        <img src="../images/niveau_ia/IA_1.svg">
         <span>Assistant aux activités préalables à une production</span>
-    </div>
+    </a>
+</div>
 
 ## Modalités d'évaluation et de remise
 
 **Pondération** : 30%
 
-- Le travail doit être en format Word et intitulé NomPrenom_technologie.docx
+- Le travail doit être en format Word et intitulé **NomPrenom_technologie.docx**
 - La remise se fera via un devoir dans l'équipe Teams du cours.
 - [Grille d'évaluation](../fichiers/grille_rapport techno.pdf){target=_blank}

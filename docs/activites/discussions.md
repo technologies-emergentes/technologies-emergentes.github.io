@@ -22,7 +22,7 @@ Avant chaque discussion :
 
 **Pondération** : Formatif
 
-- Le travail doit être en format Word et intitulé NomPrenom_discussion.docx
+- Le travail doit être en format Word et intitulé **NomPrenom_discussion.docx**
 - La remise se fera via un devoir dans l'équipe Teams du cours.
 
 ## Calendrier des discussions

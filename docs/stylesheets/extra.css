@@ -28,3 +28,49 @@ p {
     align-items: center;
     gap: 1rem;
 }
+
+.niveau_ia {
+    display:flex;
+    align-items:center;
+    gap:1rem;
+    padding:0.5rem;
+    background-color: rgba(204, 214, 2, 0.25);
+    border-radius: 0.5rem;
+    border: 2px solid rgba(204, 214, 2);
+
+    a {
+        display:flex;
+        align-items:center;
+        gap: 1rem;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    img {
+        width: 64px;
+    }
+}
+
+.niveau_ia_prof {
+    display:flex;
+    align-items:center;
+    gap:1rem;
+    padding:0.5rem;
+    background-color: rgba(204, 214, 2, 0.25);
+    border-radius: 0.5rem;
+    border: 2px solid rgba(204, 214, 2);
+
+    a {
+        display:flex;
+        align-items:center;
+        gap: 1rem;
+        text-decoration: none;
+        color: inherit;
+    }
+
+    img {
+        width: 64px;
+        display: flex;
+        align-items: center;
+    }
+}

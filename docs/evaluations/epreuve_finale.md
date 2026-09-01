@@ -69,20 +69,20 @@ Vous devez présenterer et expliquer le fonctionnement de votre prototype lors d
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-!!! note ""
-
-    <div style="display:flex;align-items:center;gap:1rem;">
-        <a href="" target="_blank" style="display:flex;align-items:center;">
-            <img src="../images/niveau_ia/niveau_3_xsmall.png">
-        </a>
+<div class="niveau_ia">
+    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank" style="display:flex;align-items:center;">
+    <img src="../images/niveau_ia/IA_3.svg">
         <span>Assistant à l'élaboration partielle d'une production</span>
-    </div>
+    </a>
+</div>
+
+
 
 ## Modalités d'évaluation et de remise
 
 **Pondération** : 70%
 
- - Le rapport de recherche doit être un document au format Word intitulé NomPrenom_RapportRecherche.docx
+ - Le rapport de recherche doit être un document au format Word intitulé **NomPrenom_RapportRecherche.docx**
  - Il sera remis dans un devoir Teams à la dernière semaine de cours (La date sera précisée dans le devoir)
  - Le prototype sera présenté en classe ou individuellement avec l'enseignant durant les deux derniers cours.
  - [Grille d'évaluation](../fichiers/grille_epreuve_finale.pdf){target=_blank}
