@@ -17,7 +17,7 @@ Déterminer clairement les objectifs du projet
 
 Avant de commencer le développement, il est primordial de prendre le temps de se familiariser avec la technologie.
 
-**Il faut s'assurer de comprendre: **
+**Il faut s'assurer de comprendre:**
 
 - Son fonctionnement général
 - Ses principales fonctionnalités
@@ -59,7 +59,7 @@ On peut tester individuellement les fonctionnalités importantes.
 
 Développer une petite version permettant de tester les éléments les plus importants ou les plus risqués du projet.
 
-**Exemple: **
+**Exemple:**
 Avant de créer une application complète en réalité virtuelle, créer une petite scène permettant simplement de tester les interactions avec les objets.
 
 !!! note ""
