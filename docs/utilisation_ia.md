@@ -16,3 +16,19 @@ Peut importe le niveau d'utilisation, vous devez en tout temps:
 - citer l'utilisation de l'intelligence artificielle dans vos travaux selon les normes décrites plus haut.
 
 Tout manquement à ces comportements peut être sujet aux sanctions applicables (tricherie et plagiat, retrait de la classe ou refus de répondre aux questions). Si vous avez un doute, venez m'en parler
+
+## Utilisation dans la conception des notes et activités
+
+<section class="niveau-ia-production">
+    <div class="colonne-image">
+        <img src="./images/niveau_ia/NIA_768x1024.png" width="64">    
+    </div>
+    
+    <divc class="colonne-description">
+        <span class="ia-titre accent">Non-recours à l’intelligence artificielle</span>
+
+        <p>Sauf indication contraire, aucune intelligence artificielle n'a été utilisé 
+        dans la conception de ces notes de cours, des activités d'apprentissages et des
+        évaluations.</p>
+    </div>
+</section>

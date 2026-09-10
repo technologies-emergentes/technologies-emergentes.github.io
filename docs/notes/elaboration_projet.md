@@ -55,7 +55,7 @@ C'est à cette étape qu'on va répondre à la question:
 
 On peut tester individuellement les fonctionnalités importantes.
 
-## 6. Créer une preuve de concept (prototype)
+## 6. Créer une preuve de concept
 
 Développer une petite version permettant de tester les éléments les plus importants ou les plus risqués du projet.
 

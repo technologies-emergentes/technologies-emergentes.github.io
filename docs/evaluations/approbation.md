@@ -20,12 +20,12 @@ votre document doit aussi comporter une [matrice d'Eisenhower](../notes/matrice_
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-<div class="niveau_ia">
-    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank"">
-    <img src="../images/niveau_ia/IA_2.svg">
-        <span>Assistant à l'organisation ou à la révision d'une production</span>
+<section class="niveau-ia-evaluation">
+    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank">
+        <img src="../images/niveau_ia/IA_2.svg" width="64">
+        <span>Assistant à la réflexion sur une production</span>
     </a>
-</div>
+</section>
 
 ## Modalités d'évaluation et de remise
 

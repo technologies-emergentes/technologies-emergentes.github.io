@@ -27,17 +27,22 @@ L'épreuve finale est composé en deux parties :
 
 ### Rapport de recherche
 
-Le rapport de recherche est un document au format Word qui résume vos expérimentations. On y retrouve aussi vos réflexions et avis sur la technologie que vous avez utilisée. En plus d'une page titre et d'une table des matières, le document doit comporter les éléments suivants: 
+Le rapport de recherche est un document au format Word qui résume vos expérimentations. 
+On y retrouve aussi vos réflexions et avis sur la technologie que vous avez utilisée. 
+En plus d'une **page titre** et d'une **table des matières**, le document doit comporter les sections suivantes: 
 
 **Retour sur la technologie**
 
-- Une introduction qui présente la nature du projet et les attentes que vous aviez quand vous avez débuté le projet. 
-- Une explication des concepts de la technologie appuyée d'une carte mentale.
-- Un avis juste et éclairé sur votre choix technologiques. Dans cet avis vous devez aussi faire un comparatif avec d'autres technologies semblable à l'aide d'une matrice de décision.
+- Une introduction qui présente la nature du projet et les attentes que vous aviez ==quand vous avez débuté le projet==. 
+- Une explication des concepts de la technologie appuyée d'une **carte mentale**.
+- Un avis juste et éclairé sur votre choix technologiques. Dans cet avis vous devez aussi faire un comparatif avec d'autres technologies semblable que vous auriez pu choisir à l'aide d'une **matrice de décision**.
 
 ---
 
 **Métier d'un technicien utilisant la technologie**
+
+Dans un court texte vous devez faire la description d'un poste d'une personne qui travaille avec 
+la technologie que vous avez choisi pour votre travail. Les points à couvrir sont: 
 
 - Le titre du poste
 - Les compétences requises pour le poste
@@ -50,16 +55,19 @@ Le rapport de recherche est un document au format Word qui résume vos expérime
 **Retour sur l'élaboration du prototype**
 
 - Un relevé complet des exigences techniques du projet.
-- Une description sous forme de fiche de dépannage de 3 problèmes que vous avez rencontré. Dans votre fiche de dépannage vous devez expliquer le problème, énoncer les causes possibles et présenter la solution que vous avez adoptée. Si pertinent ajouter des captures d'écrans ou des extraits de codes.
+- Une description sous forme de fiche de dépannage de ==3 problèmes== que vous avez rencontré. Dans votre fiche de dépannage vous devez expliquer le **problème**, énoncer les **causes** possibles et présenter la **solution** que vous avez adoptée. Si pertinent ajouter des captures d'écrans ou des extraits de codes.
 - Un court texte qui explique comment votre prototype réussi à atteindre les attentes du projet. Si vous n'avez pas réussi, expliquez les raisons de cet échec.
 - Un avis sur la longévité, la stabilité, l’efficacité et la maintenabilité des composants en relation avec vos recherches et vos expérimentations.
 
 ---
 
+**Veille technologique**
+
+- Une veille technologique avec au moins une entrée par semaine (**10 en tout**). Utilisez le format décrit dans les notes sur les [veilles technologiques](../notes/veille_technologique.md){target=_blank}
+
 **Recherche et documentation**
 
-- Une veille technologique avec au moins une entrée par semaine. Utilisez le format décrit dans les notes sur les [veilles technologiques](../notes/veille_technologique.md)
-- Une bibliographie des références utilisées.
+- Une bibliographie des ressources significatives consultées dans l'élaboration de votre projet. Les références doivent être au format APA7 (voir [Citer ses sources](../notes/citations.md){target=_blank})
 
 ### Prototype
 
@@ -69,12 +77,16 @@ Vous devez présenterer et expliquer le fonctionnement de votre prototype lors d
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-<div class="niveau_ia">
-    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank" style="display:flex;align-items:center;">
-    <img src="../images/niveau_ia/IA_3.svg">
-        <span>Assistant à l'élaboration partielle d'une production</span>
+<section class="niveau-ia-evaluation">
+    <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank">
+        <img src="../images/niveau_ia/IA_3.svg" width="64">
+        <span>Assistant à l’élaboration partielle d’une production</span>
     </a>
-</div>
+</section>
+
+!!! notes
+
+    N'oubliez pas de citer de façon adéquate quand vous utiliser l'IA ([Utilisation de l'intelligence artificielle](../utilisation_ia.md){target=_blank})
 
 
 

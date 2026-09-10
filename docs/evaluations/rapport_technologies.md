@@ -26,10 +26,9 @@ Ensuite dans un document Word:
 
 ## Niveau d'intégration de l'intelligence artificielle
 
-
-<div class="niveau_ia">
+<div class="niveau-ia-evaluation">
     <a href="https://techinfo.profinfo.ca/niveaux-ia/" target="_blank">
-        <img src="../images/niveau_ia/IA_1.svg">
+        <img src="../images/niveau_ia/IA_1.svg" width="64">
         <span>Assistant aux activités préalables à une production</span>
     </a>
 </div>

@@ -49,6 +49,15 @@ Pour bien comprendre le sujet, il faut parfois faire des recherches pour approfo
 
 [Cartographie complète de la veille technologique](https://gitmind.com/app/docs/mfaho29l)  
 
+### Un autre exemple
+
+Voici un autre exemple de carte mentale qui représente le projet de session. Les informations peuvent différer de l'énoncé de l'évaluation finale, veuillez toujours vous référer à ce dernier.
+
+<figure markdown>
+  ![mindmap_projet_session.png](../images/mindmap_projet_session.png){.center .shadow}
+  <figcaption><a href="../images/mindmap_projet_session.png" target="_blank">Image en taille réelle</a></figcaption>
+</figure>
+
 ## Outils en ligne
 
 Outil que vous pouvez utiliser pour créer vos cartographies :  
