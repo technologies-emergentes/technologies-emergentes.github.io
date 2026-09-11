@@ -32,4 +32,4 @@ Avant chaque discussion :
 | 2 septembre | Partage des expériences de stages et de travail  |
 | 15 septembre  | Concevoir et personnaliser une intelligence artificielle |
 | 29 septembre  | La robotique et le cloud computing (jeux, applications et systèmes d'exploitation) |
-| 20 octobre  | L'IA et le métier de développeur / Avantages et conséquences de l'utilisation de l'IA |
+| 20 octobre  | Avantages et risques de l'utilisation de l'IA (l'aspect humain, sociétal, environnemental)  |

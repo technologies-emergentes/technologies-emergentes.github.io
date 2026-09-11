@@ -63,7 +63,15 @@ la technologie que vous avez choisi pour votre travail. Les points à couvrir so
 
 **Veille technologique**
 
-- Une veille technologique avec au moins une entrée par semaine (**10 en tout**). Utilisez le format décrit dans les notes sur les [veilles technologiques](../notes/veille_technologique.md){target=_blank}
+- Dans une section distincte, faites un résumé de la veille technologique que vous avez fait en utilisant 
+le format décrit dans les notes sur les [veilles technologiques](../notes/veille_technologique.md){target=_blank}
+- Vous devez faire une entrée par semaine (**10 en tout**)
+- Les ressources que vous consulté doivent avoir été produite en 2026.
+
+!!! info "Sujet de votre veille technologique"
+
+    Le métier de développeur à l'ère de l'intelligence artificielle agentique
+
 
 **Recherche et documentation**
 
