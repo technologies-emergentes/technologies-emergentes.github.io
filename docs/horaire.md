@@ -10,7 +10,7 @@
 | 5 | 2026-09-22<br>10:15-13:05 | Travail sur le projet | |
 | 6 | 2026-09-29<br>10:15-13:05 | <a href="activites/discussions.md">Discussion</a> #3<br><a href="evaluations/rapport_technologies.md">Présentation du rapport de technologies émergentes</a><br>Travail sur le projet | |
 | 7 | 2026-10-06<br>10:15-13:05 | Travail sur le projet | <b>Remise du rapport de technologies émergentes</b> |
-| 8 | 2026-10-20<br>10:15-13:05 | <a href="activites/discussions.md">Discussion</a> #4<br>Travail sur le projet | |
+| 8 | 2026-10-20<br>10:15-13:05 | <a href="activites/discussions.md">~~Discussion~~</a> #4<br>Travail sur le projet | |
 | 9 | 2026-10-27<br>10:15-13:05 | Travail sur le projet | Prendre rendez-vous pour la rencontre du prochain cours|
 | 10 | 2026-11-03<br>10:15-13:05 | Travail sur le projet | Rencontre individuelle sur l'avancement du projet|
 | 11 | 2026-11-17<br>10:15-13:05 | Travail sur le projet | |
