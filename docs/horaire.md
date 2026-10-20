@@ -15,6 +15,6 @@
 | 10 | 2026-11-03<br>10:15-13:05 | Travail sur le projet | Rencontre individuelle sur l'avancement du projet|
 | 11 | 2026-11-17<br>10:15-13:05 | Travail sur le projet | |
 | 12 | 2026-11-24<br>10:15-13:05 | Travail sur le projet | |
-| 13 | 2026-12-01<br>10:15-13:05 | Travail sur le projet | <b>Remise du rapport de recherche</b><br>Prendre rendez-vous pour la présentation du projet final|
-| 14 | 2026-12-08<br>10:15-13:05 | Rencontre (individuelle ou par petit groupe) de présentation du prototype | |
+| 13 | 2026-12-01<br>10:15-13:05 | Travail sur le projet | Prendre rendez-vous pour la présentation du projet final|
+| 14 | 2026-12-08<br>10:15-13:05 | Rencontre (individuelle ou par petit groupe) de présentation du prototype | <b>Remise du rapport de recherche</b><br>(au début du cours) |
 | 15 | 2026-12-15<br>10:15-13:05 | Rencontre (individuelle ou par petit groupe) de présentation du prototype | |

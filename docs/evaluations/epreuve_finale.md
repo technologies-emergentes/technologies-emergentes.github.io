@@ -103,7 +103,7 @@ Vous devez présenterer et expliquer le fonctionnement de votre prototype lors d
 **Pondération** : 70%
 
  - Le rapport de recherche doit être un document au format Word intitulé **NomPrenom_RapportRecherche.docx**
- - Il sera remis dans un devoir Teams à la dernière semaine de cours (La date sera précisée dans le devoir)
+ - Il sera remis dans un devoir Teams (La date sera précisée dans le devoir)
  - Le prototype sera présenté en classe ou individuellement avec l'enseignant durant les deux derniers cours.
  - [Grille d'évaluation](../fichiers/grille_epreuve_finale.pdf){target=_blank}
 
